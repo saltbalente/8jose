@@ -11,8 +11,7 @@
 /* Botón flotante para llamada */
 .floating-call-wrapper {
   position: fixed;
-  bottom: 100px;
-  right: 32px;
+ 
   z-index: 9999;
 }
 
@@ -28,8 +27,7 @@
   transition: background 0.2s, box-shadow 0.2s;
   position: relative;
   min-width: 140px;
-  gap: 12px;
-}
+ }
 
 .floating-call:hover {
   background: #1B1464;
