@@ -11,7 +11,7 @@
 /* Botón flotante para llamada */
 .floating-call-wrapper {
   position: fixed;
- 
+ bottom: 65px;
   z-index: 9999;
 }
 
